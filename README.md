@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, Java, Flask, SQL**
 
-- 📫 How to reach me **jesuspl0411@gmail.com**
-
 - ⚡ Fun fact **I like to play soccer**
 
 <h3 align="left">Connect with me:</h3>
