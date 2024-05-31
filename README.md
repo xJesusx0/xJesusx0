@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
 <h3 align="center">A telematic engineer, python backend developer</h3>
-<p align="center">
   [![](https://visitcount.itsvg.in/api?id=xJesusx0&icon=2&color=0)](https://visitcount.itsvg.in)
-</p>
 
 
 - 🌱 I’m currently learning **MySQL, Mongo DB**
