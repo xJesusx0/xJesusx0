@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
 <h3 align="center">A telematic engineer, python backend developer</h3>
 
-- 🌱 I’m currently learning **MySQL, Mongo DB**
+- 🌱 I’m currently learning **SpringBoot, Mongo DB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xJesusx0](https://github.com/xJesusx0)
 
